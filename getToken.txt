@@ -1,0 +1,4 @@
+//获取百度语音识别的token，一个Token有效期为1个月，上次申请时间为4月30日。
+//获取后的token放进百度语音识别代码的 “strcat(data_json,"\"token\":\·········” 
+//"https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=mhoAn8tPlELyhcMz6rCLODEl&client_secret=cQ9X1AqYs49XhcZRhBdUkkH8SCBXQoNp"void getToken(void)   
+//点开链接将获得的refresh token替代上个月的token即可
